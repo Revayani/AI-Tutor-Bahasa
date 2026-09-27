@@ -520,7 +520,7 @@ import streamlit as st
 
 st.set_page_config(page_title="AI Tutor Bahasa", page_icon="🤖")
 
-st.title("🤖 AI Tutor Bahasa Indonesia")
+st.title("🤖 AI Tutor Bahasa Indonesia Revayani")
 st.write("Selamat datang! Silakan pilih topik atau masukkan teks yang ingin kamu bedah.")
 
 # Pilihan Topik
